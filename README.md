@@ -160,7 +160,7 @@
 
 ## 유저 관련 기능
 <details>
-  <summary><b>2. 회원가입 및 로그인</b> (👈 Click)</summary>
+  <summary><b>1. 회원가입 및 로그인</b> (👈 Click)</summary>
   <br>
   <div markdown="1">
     <h3>가입 및 로그인</h3>
@@ -174,7 +174,7 @@
 </details>
 
  <details>
-  <summary><b>3. 유저 마이페이지</b> (👈 Click)</summary>
+  <summary><b>2. 유저 마이페이지</b> (👈 Click)</summary>
   <br>
   <div markdown="1">
     <ul>
@@ -185,7 +185,7 @@
 </details>     
 
  <details>
-  <summary><b>4. 유저 설정</b> (👈 Click)</summary>
+  <summary><b>3. 유저 설정</b> (👈 Click)</summary>
   <br>
   <div markdown="1">
     <ul>
@@ -196,7 +196,7 @@
 </details>     
 
  <details>
-  <summary><b>5. 앨범</b> (👈 Click)</summary>
+  <summary><b>4. 앨범</b> (👈 Click)</summary>
   <br>
   <div markdown="1">
     <ul>
@@ -207,7 +207,7 @@
 </details>
 
 <details>
-  <summary><b>6. 알림</b> (👈 Click)</summary>
+  <summary><b>5. 알림</b> (👈 Click)</summary>
   <br>
   <div markdown="1">
     <ul>
