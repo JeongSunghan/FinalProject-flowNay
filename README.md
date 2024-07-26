@@ -106,43 +106,199 @@
 </table>
 
 
-### [프로젝트 개요]
+# [1] [프로젝트 개요]
 본 프로젝트는 SNS 소셜 네트워크 플랫폼의 현재와 과거의 이용률을 분석하고, 4060세대의 활발한 SNS 활동을 반영하여, 전 세계의 다양한 연령층이 소통할 수 있는 최적의 플랫폼을 제공하는 것을 목표로 합니다. 특히 실버세대를 포함한 모든 세대에게 적합하고, 사용 편의성과 트렌디한 UI 디자인에 중점을 둔 서비스를 구현합니다.
 
-### 주요 기능
-* 게시물 관리의 간편함: 사용자가 올린 게시글의 사진을 앨범 카테고리로 모아보고, 홈에서는 글쓰기와 게시물이 한눈에 들어오도록 구성합니다.
-* TO DO LIST: 사용자가 할 일을 관리하고 추적할 수 있는 기능을 제공하여 생산성을 높입니다.
-* 채팅: 사용자 간 실시간으로 소통할 수 있는 채팅 기능을 제공하고 홈 화면에서 채팅 위젯을 바로 접근할 수 있도록 배치하였습니다.
+# [2] 주요 기능들
+## 기본 기능
+<details>
+  <summary><b>1. 홈</b> (👈 Click)</summary>
+  <br>
+  <div markdown="1">
+    <h3>홈</h3>
+    <ul>
+      <li>첫 로그인 시 보이는 홈 화면</li>
+          <img src="" alt="">
+  </ul>
+  </div>
+</details>
 
-## Pages(route)
-#### home 홈
-게시글 목록, 게시글 작성을 겸합니다
-#### login 로그인
-#### chatting 채팅
-채팅방 목록과 채팅 내용을 표시합니다
-#### chattingtemp 임시채팅
-아직 채팅방이 만들어지지 않은 유저들끼리 채팅방을 만들기 전 채팅방 제목과 첫 채팅만 보내기 위해 제작된 페이지입니다
-#### mypage 마이페이지
-그냥 들어갈 경우 현재 로그인한 유저의 마이페이지, 타인의 프로필을 클릭하면 타인의 마이페이지가 나옵니다
-#### family 패밀리
-#### follow 플로우(팔로우)
-타 SNS의 팔로우와 거의 유사한 기능으로, 해당 페이지는 자신의 팔로워, 팔로잉 목록을 볼 수 있습니다
-#### album 앨범
-#### notification 알림
-#### verify 인증
-설정에 들어가기 전 비밀번호를 입력하는 페이지입니다
-#### setting 유저 설정
-유저의 개인정보나 프로필 사진을 수정하는 공간입니다
-#### team 팀
-팀 소개 페이지입니다
-#### search 검색
-게시글 검색 페이지
-#### statistics 이용 통계 (관리자 전용)
-이용자의 글 작성 등의 통계 제공 페이지입니다
-#### userList 사용자 관리 (관리자 전용)
-이용자의 비활성화/활성화를 할 수 있는 관리자 전용 페이지입니다
-#### boardList 게시물 관리 (관리자 전용)
-글에 대한 신고와 글 목록에 대한 처리를 할 수 있는 페이지입니다
+<details>
+  <summary><b>2. 앨범</b> (👈 Click)</summary>
+  <br>
+  <div markdown="1">
+    <h3>홈</h3>
+    <ul>
+      <li>첫 로그인 시 보이는 홈 화면</li>
+          <img src="" alt="">
+  </ul>
+  </div>
+</details>
+
+ <details>
+  <summary><b>3. 날씨</b> (👈 Click)</summary>
+  <br>
+  <div markdown="1">
+    <ul>
+        <li>내용</li>
+          <img src="" alt="">        
+  </ul>
+  </div>  
+</details>
+
+ <details>
+  <summary><b>4. To-Do List</b> (👈 Click)</summary>
+  <br>
+  <div markdown="1">
+    <ul>
+        <li>내용</li>
+          <img src="" alt="">        
+  </ul>
+  </div>  
+</details>
+
+
+## 유저 관련 기능
+<details>
+  <summary><b>2. 회원가입 및 로그인</b> (👈 Click)</summary>
+  <br>
+  <div markdown="1">
+    <h3>가입 및 로그인</h3>
+    <ul>
+      <li>Firebase Authentication을 사용하여 로그인 기능 구현</li>
+          <img src="" alt="">
+       <li>Firebase Authentication을 사용하여 회원가입 기능 구현</li>
+          <img src="" alt="">
+  </ul>
+  </div>
+</details>
+
+ <details>
+  <summary><b>3. 유저 마이페이지</b> (👈 Click)</summary>
+  <br>
+  <div markdown="1">
+    <ul>
+      <li>유저 정보 저장 및 관리</li>
+  <img src="" alt="">
+  </ul>
+  </div>
+</details>     
+
+ <details>
+  <summary><b>4. 유저 설정</b> (👈 Click)</summary>
+  <br>
+  <div markdown="1">
+    <ul>
+      <li>유저의 정보를 설정 할 수 있는 페이지 입니다.</li>
+  <img src="" alt="">
+  </ul>
+  </div>
+</details>     
+
+ <details>
+  <summary><b>5. 앨범</b> (👈 Click)</summary>
+  <br>
+  <div markdown="1">
+    <ul>
+        <li>내용</li>
+          <img src="" alt="">        
+  </ul>
+  </div>  
+</details>
+
+<details>
+  <summary><b>6. 알림</b> (👈 Click)</summary>
+  <br>
+  <div markdown="1">
+    <ul>
+        <li>내용</li>
+          <img src="" alt="">        
+  </ul>
+  </div>  
+</details>
+
+## 채팅 관련 기능
+ <details>
+  <summary><b>1. 채팅</b> (👈 Click)</summary>
+  <br>
+  <div markdown="1">
+    <ul>
+        <li>채팅방 목록 및 채팅 내용을 표시</li>
+          <img src="" alt="">        
+  </ul>
+  </div>  
+</details>
+
+ <details>
+  <summary><b>2. 임시 채팅</b> (👈 Click)</summary>
+  <br>
+  <div markdown="1">
+    <ul>
+        <li>채팅방 목록 및 채팅 내용을 표시</li>
+          <img src="" alt="">        
+  </ul>
+  </div>  
+</details>
+
+## 팔로잉/팔로워 기능
+ <details>
+  <summary><b>1. 패밀리</b> (👈 Click)</summary>
+  <br>
+  <div markdown="1">
+    <ul>
+        <li>카카오톡 오픈 채팅과 비슷한 기능입니다.</li>      
+          <img src="" alt="">        
+  </ul>
+  </div>  
+</details>
+
+ <details>
+  <summary><b>2. 플로잉/플로우</b> (👈 Click)</summary>
+  <br>
+  <div markdown="1">
+    <ul>
+        <li>타 SNS의 팔로우 / 파로잉 기능이며, 해당 페이지에서는 자신이 팔로잉 및 팔로우한 목록을 볼 수 있습니다.</li>
+          <img src="" alt="">        
+  </ul>
+  </div>  
+</details>
+
+
+## 관리자 전용 기능
+ <details>
+  <summary><b>1. 통계</b> (👈 Click)</summary>
+  <br>
+  <div markdown="1">
+    <ul>
+        <li>userList 와 boarList를 불러온 후 각각의 맞는 조건에 따라 표시</li>
+          <img src="" alt="">        
+  </ul>
+  </div>  
+</details>
+
+ <details>
+  <summary><b>2. 사용자 관리</b> (👈 Click)</summary>
+  <br>
+  <div markdown="1">
+    <ul>
+        <li>userList를 불러옵니다</li>
+          <img src="" alt="">             
+  </ul>    
+  </div>       
+</details>
+
+ <details>
+  <summary><b>3. 게시물 관리</b> (👈 Click)</summary>
+  <br>
+  <div markdown="1">
+    <ul>
+        <li>boardList를 불러옵니다</li>
+          <img src="" alt="">             
+  </ul>    
+  </div>       
+</details>
+
+
 
 
 ### 기타
