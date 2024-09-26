@@ -634,7 +634,7 @@
     <h3>홈</h3>
     <ul>
       <li>첫 로그인 시 보이는 홈 화면</li>
-          <img src="" alt="">
+        ![메인](https://github.com/user-attachments/assets/163c63f8-503a-4229-b488-18bc6870c0ba)
   </ul>
   </div>
 </details>
