@@ -552,14 +552,45 @@
     </tr>
 </table>
 
+## 프로젝트 기술 스택
+### 🔧 백엔드 (Back-end)
+- **스프링부트 (Spring Boot)**: RESTful API와 비즈니스 로직을 처리하는 서버 구축에 사용되었습니다.
+<br><br>
+
+### 🎨 프론트엔드 (Front-end)
+- **리액트 (React)**: 사용자 인터페이스(UI) 및 클라이언트 측 로직을 구현하는 데 사용되었습니다.
+<br><br>
+
+### 💾 데이터베이스 (Databases)
+- **Firebase**: 실시간 데이터베이스 및 사용자 인증 관리에 활용.
+- **Cloudinary**: 이미지와 비디오 파일 저장 및 관리.
+- **MySQL**: 주요 관계형 데이터베이스로 사용되었습니다.
+<br><br>
+
+### 🔌 외부 API (External APIs)
+- **SweetAlert2**: 사용자 알림과 경고 메시지 모듈로 사용.
+- **openWeather API**: 날씨 정보를 가져오는 데 사용되었습니다.
+<br><br>
+
+## 프로젝트 관리 도구
+
+### 📅 일정 관리 (Schedule Management)
+- **Notion**: 프로젝트 문서화 및 일정 관리에 사용.
+- **Jira**: 애자일 방식으로 스프린트 및 이슈 관리를 수행.
+
+### 📂 파일 관리 (File Management)
+- **GoogleDrive**: 프로젝트 문서 및 자료 공유.
+- **Github**: 소스 코드 버전 관리 및 협업에 사용.
+
+
 
 # [1] [프로젝트 개요]
 SNS 소셜 네트워크를 주제로 삼고 개발한 교육기간 중 마지막 프로젝트입니다.
 
-## 프로젝트 기능
+## 프로젝트 주요 기능
+-작성 중-
 
 ## 프로젝트 기능 설명
-
 ### 1. 메인 화면
 메인 페이지에서는 사용자가 처음 접하는 화면입니다.
 <br><br>
@@ -569,45 +600,45 @@ SNS 소셜 네트워크를 주제로 삼고 개발한 교육기간 중 마지막
 ### 2. 게시글 관련 기능
 게시글 작성, 게시글 목록 조회 등의 기능을 제공합니다.
 <br><br>
-<img src="https://github.com/user-attachments/assets/a6d4f393-0b09-48d5-8341-ba2893d7f06a" height="200" width="300">
+<img src="https://github.com/user-attachments/assets/a6d4f393-0b09-48d5-8341-ba2893d7f06a" height="300" width="400">
 <br><br>
-<img src="https://github.com/user-attachments/assets/fe4c13ee-0424-46a8-9060-78556f9a0e54" height="200" width="300">
+<img src="https://github.com/user-attachments/assets/fe4c13ee-0424-46a8-9060-78556f9a0e54" height="300" width="400">
 <br><br>
-<img src="https://github.com/user-attachments/assets/cec29e13-fbb4-4d80-9eb7-3daf88df6e49" height="200" width="300">
+<img src="https://github.com/user-attachments/assets/cec29e13-fbb4-4d80-9eb7-3daf88df6e49" height="300" width="400">
 <br><br>
-<img src="https://github.com/user-attachments/assets/696f102a-c6d1-413e-a03b-de6967fe1c2c" height="200" width="300">
+<img src="https://github.com/user-attachments/assets/696f102a-c6d1-413e-a03b-de6967fe1c2c" height="300" width="400">
 <br><br><br>
 
 ### 3. 마이 페이지
 사용자가 개인 정보를 수정하거나 자신의 활동을 관리할 수 있는 페이지입니다.
 <br><br>
-<img src="https://github.com/user-attachments/assets/686734b6-920d-4315-9066-792ba4f95e49" height="200" width="300">
+<img src="https://github.com/user-attachments/assets/686734b6-920d-4315-9066-792ba4f95e49" height="300" width="400">
 <br><br>
-<img src="https://github.com/user-attachments/assets/d854032b-5b29-42d7-9e79-1c1b51991cca" height="200" width="300">
+<img src="https://github.com/user-attachments/assets/d854032b-5b29-42d7-9e79-1c1b51991cca" height="300" width="400">
 <br><br>
-<img src="https://github.com/user-attachments/assets/a963ce00-7b26-47d2-af02-7ae4646319bf" height="200" width="300">
+<img src="https://github.com/user-attachments/assets/a963ce00-7b26-47d2-af02-7ae4646319bf" height="300" width="400">
 <br><br>
-<img src="https://github.com/user-attachments/assets/7a1e80e7-6ecd-4605-bbac-bf2afe5b3189" height="200" width="300">
+<img src="https://github.com/user-attachments/assets/7a1e80e7-6ecd-4605-bbac-bf2afe5b3189" height="300" width="400">
 <br><br><br>
 
 ### 4. 관리자 기능
 관리자 페이지에서 유저 관리 및 시스템 설정을 관리할 수 있습니다.
 <br><br>
-<img src="https://github.com/user-attachments/assets/45e7572f-32e7-41ea-93e1-f2d6c3bdca13" height="200" width="300">
+<img src="https://github.com/user-attachments/assets/45e7572f-32e7-41ea-93e1-f2d6c3bdca13" height="300" width="400">
 <br><br>
-<img src="https://github.com/user-attachments/assets/a9feb7d3-ec1b-4287-94f9-731dfa847b19" height="200" width="300">
+<img src="https://github.com/user-attachments/assets/a9feb7d3-ec1b-4287-94f9-731dfa847b19" height="300" width="400">
 <br><br>
-<img src="https://github.com/user-attachments/assets/c056693f-31b8-45a5-a039-ab1aa0391c11" height="200" width="300">
+<img src="https://github.com/user-attachments/assets/c056693f-31b8-45a5-a039-ab1aa0391c11" height="300" width="400">
 <br><br><br>
 
 ### 5. 기타 기능
 알림, 채팅, 투두 기능 등 다양한 추가 기능을 지원합니다.
 <br><br>
-<img src="https://github.com/user-attachments/assets/f8047086-a438-4234-8883-1963cce3c22b" height="200" width="300">
+<img src="https://github.com/user-attachments/assets/f8047086-a438-4234-8883-1963cce3c22b" height="300" width="400">
 <br><br>
-<img src="https://github.com/user-attachments/assets/cc83e4f2-8e66-4811-9aae-a0d70a2a2a26" height="200" width="300">
+<img src="https://github.com/user-attachments/assets/cc83e4f2-8e66-4811-9aae-a0d70a2a2a26" height="300" width="400">
 <br><br>
-<img src="https://github.com/user-attachments/assets/67ed24e2-a3cf-412e-a8cb-6a8638ddd0d4" height="200" width="300">
+<img src="https://github.com/user-attachments/assets/67ed24e2-a3cf-412e-a8cb-6a8638ddd0d4" height="300" width="400">
 <br><br><br>
 
 
