@@ -618,17 +618,8 @@
 ![관리자 기능](https://github.com/user-attachments/assets/697d6592-3b99-4732-a0ef-43dfe7861ae6)
 ![어드민 활성유저](https://github.com/user-attachments/assets/c056693f-31b8-45a5-a039-ab1aa0391c11)
 ![어드민 비활](https://github.com/user-attachments/assets/58d5c4b3-c475-4fea-b94f-7afd8bb65efd)
+![게시글목록 조회](https://github.com/user-attachments/assets/fe4c13ee-0424-46a8-9060-78556f9a0e54)
 ![신고게시글](https://github.com/user-attachments/assets/cec29e13-fbb4-4d80-9eb7-3daf88df6e49)
-
----
-
-## 4. 게시글 관리 (Post Management)
-
-### 게시글 기능
-![게시글 기능](https://github.com/user-attachments/assets/a6d4f393-0b09-48d5-8341-ba2893d7f06a)
-
-### 게시글 목록
-![게시글목록](https://github.com/user-attachments/assets/fe4c13ee-0424-46a8-9060-78556f9a0e54)
 
 ---
 
@@ -664,9 +655,9 @@
 
 ---
 
-## 8. 팔로잉/팔로워 기능 (Following/Follower)
+## 8. 팔로잉/팔로워/날씨 기능 (Following/Follower/Weather)
 
-### 팔로잉/팔로워 기능
+### 팔로잉/팔로워/날씨 기능
 ![팔로잉팔로워기능](https://github.com/user-attachments/assets/18911556-3a7f-4413-adde-666a15e2e673)
 
 ---
