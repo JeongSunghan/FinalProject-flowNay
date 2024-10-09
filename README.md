@@ -591,63 +591,106 @@ SNS 소셜 네트워크를 주제로 삼고 개발한 교육기간 중 마지막
 -작성 중-
 
 ## 프로젝트 기능 설명
+
 ### 1. 메인 화면
+
 메인 페이지에서는 사용자가 처음 접하는 화면입니다.
+
 <br><br>
-<img src="https://github.com/user-attachments/assets/163c63f8-503a-4229-b488-18bc6870c0ba" height="500" width="800">
+
+<img src="https://github.com/user-attachments/assets/163c63f8-503a-4229-b488-18bc6870c0ba" alt="메인 화면" width="800" height="500">
+
 <br><br><br>
 
 ### 2. 게시글 관련 기능
+
 게시글 작성, 게시글 목록 조회 등의 기능을 제공합니다.
-<br><br>
-1. 게시글 페이지를 작성하는 모습
-<img src="https://github.com/user-attachments/assets/a6d4f393-0b09-48d5-8341-ba2893d7f06a" height="500" width="800">
+
 <br><br>
 
-<img src="https://github.com/user-attachments/assets/696f102a-c6d1-413e-a03b-de6967fe1c2c" height="500" width="800">
+#### 게시글 작성
+
+게시글 페이지를 작성하는 모습입니다.
+
+<img src="https://github.com/user-attachments/assets/a6d4f393-0b09-48d5-8341-ba2893d7f06a" alt="게시글 작성" width="800" height="500">
+
+<br><br>
+
+#### 게시글 기능
+
+좋아요 게시글 없애기 기능을 포함한 게시글 관련 기능입니다.
+
+<img src="https://github.com/user-attachments/assets/696f102a-c6d1-413e-a03b-de6967fe1c2c" alt="게시글 기능" width="800" height="500">
+
 <br><br><br>
 
 ### 3. 마이 페이지
+
 사용자가 개인 정보를 수정하거나 자신의 활동을 관리할 수 있는 페이지입니다.
+
 <br><br>
-<img src="https://github.com/user-attachments/assets/686734b6-920d-4315-9066-792ba4f95e49" height="500" width="800">
+
+<img src="https://github.com/user-attachments/assets/686734b6-920d-4315-9066-792ba4f95e49" alt="마이페이지 1" width="800" height="500">
+
 <br><br>
-<img src="https://github.com/user-attachments/assets/d854032b-5b29-42d7-9e79-1c1b51991cca" height="500" width="800">
+
+<img src="https://github.com/user-attachments/assets/d854032b-5b29-42d7-9e79-1c1b51991cca" alt="마이페이지 2" width="800" height="500">
+
 <br><br>
-<img src="https://github.com/user-attachments/assets/a963ce00-7b26-47d2-af02-7ae4646319bf" height="500" width="800">
+
+<img src="https://github.com/user-attachments/assets/a963ce00-7b26-47d2-af02-7ae4646319bf" alt="마이페이지 3" width="800" height="500">
+
 <br><br>
-<img src="https://github.com/user-attachments/assets/7a1e80e7-6ecd-4605-bbac-bf2afe5b3189" height="500" width="800">
+
+<img src="https://github.com/user-attachments/assets/7a1e80e7-6ecd-4605-bbac-bf2afe5b3189" alt="마이페이지" width="800" height="500">
+
 <br><br><br>
 
 ### 4. 관리자 기능
+
 관리자 페이지에서 유저 관리 및 시스템 설정을 관리할 수 있습니다.
+
 <br><br>
-<img src="https://github.com/user-attachments/assets/45e7572f-32e7-41ea-93e1-f2d6c3bdca13" height="500" width="800">
-<br><br>
-<img src="https://github.com/user-attachments/assets/a9feb7d3-ec1b-4287-94f9-731dfa847b19" height="500" width="800">
-<br><br>
-<img src="https://github.com/user-attachments/assets/c056693f-31b8-45a5-a039-ab1aa0391c11" height="500" width="800">
-<br><br><br>
-<img src="https://github.com/user-attachments/assets/fe4c13ee-0424-46a8-9060-78556f9a0e54" height="500" width="800">
-<br><br>
-<img src="https://github.com/user-attachments/assets/cec29e13-fbb4-4d80-9eb7-3daf88df6e49" height="500" width="800">
+
+<img src="https://github.com/user-attachments/assets/cec29e13-fbb4-4d80-9eb7-3daf88df6e49" alt="관리자 기능" width="800" height="500">
+
 <br><br>
 
 ### 5. 기타 기능
+
 알림, 채팅, 투두 기능 등 다양한 추가 기능을 지원합니다.
+
 <br><br>
-<img src="https://github.com/user-attachments/assets/f8047086-a438-4234-8883-1963cce3c22b" height="500" width="800">
+
+#### To-do
+
+할 일을 관리할 수 있는 투두 리스트 기능입니다.
+
+<img src="https://github.com/user-attachments/assets/f8047086-a438-4234-8883-1963cce3c22b" alt="투두 리스트" width="800" height="500">
+
 <br><br>
-<img src="https://github.com/user-attachments/assets/cc83e4f2-8e66-4811-9aae-a0d70a2a2a26" height="500" width="800">
+
+#### 채팅
+
+실시간 채팅 기능을 구현한 화면들입니다.
+
+<img src="https://github.com/user-attachments/assets/cc83e4f2-8e66-4811-9aae-a0d70a2a2a26" alt="채팅" width="800" height="500">
+
 <br><br>
-<img src="https://github.com/user-attachments/assets/67ed24e2-a3cf-412e-a8cb-6a8638ddd0d4" height="500" width="800">
-<br><br><br>
 
+<img src="https://github.com/user-attachments/assets/c78dcb1a-8502-4d30-abab-e9dd88bf679a" alt="채팅 내용" width="800" height="500">
 
+<br><br>
 
+#### 알림
 
+사용자에게 알림을 제공하는 기능입니다.
 
+<img src="https://github.com/user-attachments/assets/f8047086-a438-4234-8883-1963cce3c22b" alt="알림" width="800" height="500">
 
+<br><br>
+
+---
 
 ### 기타
 1. 최상위 경로에 env.local로 특정 키 등의 정보 필요합니다. 필요한 정보는 아래와 같습니다
