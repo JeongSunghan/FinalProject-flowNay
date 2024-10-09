@@ -528,7 +528,7 @@
             <br>
             <img src="https://img.shields.io/badge/FrontEnd-007acc">
             <div style="display: flex; align-items: center;">
-                 <strong>FE 구현 및 디자인</strong>
+                 <strong>FE 구현 및 UI/UX</strong>
             <br>
             <p>프론트엔드 개발과 친화적인 UI/UX를 담당</p>
         </td>
