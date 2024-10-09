@@ -592,25 +592,6 @@
 
 ---
 
-
-## 1. 관리자 기능 (Admin Features)
-
-### 관리자 로그인
-![관리자 로그인](https://github.com/user-attachments/assets/aacb74dc-06fc-4494-a41b-748938c3ac87)
-
-### 관리자 홈
-![어드민 홈](https://github.com/user-attachments/assets/45e7572f-32e7-41ea-93e1-f2d6c3bdca13)
-![어드민 홈2](https://github.com/user-attachments/assets/a9feb7d3-ec1b-4287-94f9-731dfa847b19)
-
-### 관리자 기능
-![관리자 기능](https://github.com/user-attachments/assets/697d6592-3b99-4732-a0ef-43dfe7861ae6)
-
-### 활성/비활성 유저 관리
-![어드민 활성유저](https://github.com/user-attachments/assets/c056693f-31b8-45a5-a039-ab1aa0391c11)
-![어드민 비활](https://github.com/user-attachments/assets/58d5c4b3-c475-4fea-b94f-7afd8bb65efd)
-
----
-
 ## 2. 사용자 인증 및 관리 (User Authentication & Management)
 
 ### 로그인
@@ -624,16 +605,30 @@
 
 ---
 
-## 3. 게시글 관리 (Post Management)
+## 3. 관리자 기능 (Admin Features)
+
+### 관리자 로그인
+![관리자 로그인](https://github.com/user-attachments/assets/aacb74dc-06fc-4494-a41b-748938c3ac87)
+
+### 관리자 홈
+![어드민 홈](https://github.com/user-attachments/assets/45e7572f-32e7-41ea-93e1-f2d6c3bdca13)
+![어드민 홈2](https://github.com/user-attachments/assets/a9feb7d3-ec1b-4287-94f9-731dfa847b19)
+
+### 관리자 기능
+![관리자 기능](https://github.com/user-attachments/assets/697d6592-3b99-4732-a0ef-43dfe7861ae6)
+![어드민 활성유저](https://github.com/user-attachments/assets/c056693f-31b8-45a5-a039-ab1aa0391c11)
+![어드민 비활](https://github.com/user-attachments/assets/58d5c4b3-c475-4fea-b94f-7afd8bb65efd)
+![신고게시글](https://github.com/user-attachments/assets/cec29e13-fbb4-4d80-9eb7-3daf88df6e49)
+
+---
+
+## 4. 게시글 관리 (Post Management)
 
 ### 게시글 기능
 ![게시글 기능](https://github.com/user-attachments/assets/a6d4f393-0b09-48d5-8341-ba2893d7f06a)
 
 ### 게시글 목록
 ![게시글목록](https://github.com/user-attachments/assets/fe4c13ee-0424-46a8-9060-78556f9a0e54)
-
-### 신고 게시글
-![신고게시글](https://github.com/user-attachments/assets/cec29e13-fbb4-4d80-9eb7-3daf88df6e49)
 
 ---
 
@@ -662,7 +657,6 @@
 ---
 
 ## 7. 투두 리스트 (To-Do List)
-
 ### 투두 리스트
 ![투두](https://github.com/user-attachments/assets/f8047086-a438-4234-8883-1963cce3c22b)
 ![투두2](https://github.com/user-attachments/assets/b6eea131-2aab-46e9-b704-3aba3aff9a1b)
